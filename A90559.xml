@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and solemne engagement of the citizens of London, commanders, officers, and souldiers, &amp;c. Together with the King's message of May the 12th, from Holdenby.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90559</idno><idno type="EEBO-CITATION">99865341</idno>
+  <idno type="VID">117581</idno>
+  <idno type="EEBO-PROQUEST">2240903769</idno>
+  
+            <idno type="STC">Wing P1744</idno>
+            <idno type="STC">Thomason E518_11</idno>
+            <idno type="STC">ESTC R206166</idno>
+            <idno type="PROQUEST">99865341</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865341e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117581)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E518[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and solemne engagement of the citizens of London, commanders, officers, and souldiers, &amp;c. Together with the King's message of May the 12th, from Holdenby.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117581:1"/>
+            <p>THE PETITION AND Solemne Engagement OF THE CITIZENS OF LONDON, Commanders, Officers, and Souldiers, &amp;c.</p>
+            <p>
+               <hi>Together with</hi> THE KING'S MAJESTIE'S MESSAGE of May the 12<seg rend="sup">th</seg>, from HOLDENBY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the yeer 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:117581:2"/>
+            <pb n="1" facs="tcp:117581:2"/>
+            <head>To the Right Honourable the Lord Maior, The Right Worshipful the Aldermen and commons of the City of LONDON, in the Common or Guild-Hall of the City of <hi>London</hi> assembled.</head>
+            <argument>
+               <p>
+                  <hi>The humble Petition of the Citizens, Commanders, Officers and Souldiers of the Trained Bands and Auxiliari<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, the Young-men and Apprentices of the Cities of</hi> London <hi>and</hi> Westminster, <hi>Sea-Commanders, Sea-men and Water-men, together with divers other Commanders, Officers and Soul<g ref="char:EOLhyphen"/>diers within the Line of Communication and Parishes mentioned in the weekly Bills of Mortality:</hi>
+               </p>
+            </argument>
+            <opener>SHEWETH.</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners (taking into serious consideration, how Religion, His Majesties Honour and Safety the Pri<g ref="char:EOLhyphen"/>viledges of Parliament, and Liberties of the Subject are at present greatly endangered, &amp; like to be destroyed; and also sadly weighing with our selves what means might likely prove the most effectual to procure a firm and listing Peace without a further <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sion of Christian English blood) have therefore entered into a Solemn Engagement, which is hereunto annexed▪ and do humbly and earnestly desire that this whole City may joyn together by all lawful and possible means, as one man, in hearty endeavours for His Majesties present coming up to His two Houses of Parliament with Honour, Safety, and Freedom, and that without the neerer approach of the Army, there to confirm such things as He hath granted in His Message of the 12 of <hi>May</hi> last, in answer to the Propo<g ref="char:EOLhyphen"/>sitions of both Kingdoms; and that by a personal Treaty with His two Houses of Parliament, and the Commissioners of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> such things as are yet in difference may be speedily setled, and a firm and lasting Peace established: All which we desire may be pre<g ref="char:EOLhyphen"/>sented to both Houses of Parliament from this honourable Assembly.</p>
+            <closer>And we shall pray, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="2" facs="tcp:117581:3"/>
+            <head>A Solemn ENGAGEMENT of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Com<g ref="char:EOLhyphen"/>manders, Officers and Souldiers of the Trained <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Auxiliaries, the Young-men and Apprentices of the Cities of <hi>London</hi> and <hi>Westminster,</hi> Sea-Commanders, Sea<g ref="char:EOLhyphen"/>men and Water-men, together with divers other Com<g ref="char:EOLhyphen"/>manders, Officers and Souldiers within the Line of Com<g ref="char:EOLhyphen"/>munication, and Parishes mentioned in the weekly Bill of Mortality.</head>
+            <p>WHereas we have entered into a Solemn League and Covenant for Reformation and Defe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of Religion, the Honour and Hap<g ref="char:EOLhyphen"/>pinesse of the King, and the Peace and Safety of the three King<g ref="char:EOLhyphen"/>doms of <hi>England, Scotland</hi> and <hi>Ireland;</hi> all which we <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> e<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly perceive not onely to be endangered, but ready to be distroyed: Well therefore in pursuance of our said Covenant, Oath of All<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ant<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Oath of eve<g ref="char:EOLhyphen"/>ry Free-man of the Cities of <hi>London</hi> and <hi>Westminster,</hi> and Protestations, solemnly engage our selves, and vow unto Almighty God, That we will to the utmost of our power cordially endeavour that His Majesty may speedly come to His two Houses of Parliament, with Honour, Safety, and Freedom, (a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that without the neerer approach of the Army<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) there to confirm such thing▪ as He hath granted in His Message of the 12 of May last, in answer to t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Propositions of both Kingdoms; and that by a Personal Treaty <gap reason="illegible" resp="#keyers" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap> two Houses of Parliament and the Commissioners of the Kingdom of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> land, such things as are yet in difference may be speedily setled, and a <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and lasting Peace established. For effecting whereof, we do protest, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> oblige our selves, as in the presence of God the searcher of all hearts, with our Lives and Fortunes to endeavour what in us lies, to preserve and de<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> His Majesties Royal Person and Authority, the Priviledges of Parliament, and Liberties of the Subject, in their full and constant freedom; the Cit<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of <hi>London</hi> and <hi>Westminster,</hi> Lines of Communication, and Paris<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tioned in the weekly Bills of Mortality, and all others that shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with us to the said Covenant, Oath of Alleg<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce, Oath of every Free-man of <hi>London</hi> and <hi>Westminster,</hi> and Protestation: Nor shall we by any <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> admit, suffer or endure any kinde of Neutrality in this Common Cause of God, the King and Kingdoms, as we d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expect the blessing of Almighty God, whose help we crave, and wholly devolve our selves upon, in this <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Un<g ref="char:EOLhyphen"/>dertaking.</p>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:117581:3"/>
+            <head>His MAJESTIES most gracious Message from HOLDEN BY, May 12, 1647.</head>
+            <opener>
+               <salute>C. R.</salute>
+            </opener>
+            <p>As the daily expectation of the coming of the Propositions hath made his Majesty this long time to forbear giving his Answer unto them; so the appearance of their sending being no more (for any thing he can hear) then it was at his first coming hither, not<g ref="char:EOLhyphen"/>withstanding that the Earle of <hi>Louderdale</hi> hath been at London above these ten dayes, (whose not coming was said to be the onely stop) hath caused his Majestie thus to anticipate their coming to him; and yet con<g ref="char:EOLhyphen"/>sidering his condition, that his Servants are denyed accesse to him, all but very few, and those by appointment, not his owne Election: and that it is declared a crime for any but the Commissioners, or such who are particularly permitted by them, to converse with his Majesty; or that any Letters should be given to, or received from him: may he not truly say, that he is not in case fit to make Concessions or give Answers, since he is not master of those ordinary Actions which are the undoubted Rights of any free-born man, how mean soever his birth be? And certainly he would still be silent as to this subject, untill his Condition were much mended, did he not preferr such a right understanding betwixt Him and his Parliaments of both Kingdoms, which may make a firm and lasting Peace in all his Dominions, before any particular of his own, or any earthly blessing: and therefore His Majesty hath diligently imployed his utmost indeavours for divers months past, so to inform His Understand<g ref="char:EOLhyphen"/>ing, and to satisfie His Conscience, that he might be able to give such An<g ref="char:EOLhyphen"/>swers to the Propositions, as would be most agreeable to his Parliaments; but he ingenuously professes, that notwithstanding all the pains that hee hath taken therein▪ the nature of some of them appears such unto him, that without disclaiming that Reason which God hath given him to judge by for the good of Him and his People, and without putting the greatest vio<g ref="char:EOLhyphen"/>lence upon his own Conscience, he cannot give his consent to all of them. Yet His Majestie (that it may appear to all the World how desirous he is to give full satisfaction) hath thought fit hereby to expresse his readinesse to grant what he may, and his willingnesse to receive from them, and that
+<pb n="4" facs="tcp:117581:4"/> personally (if his two Houses at <hi>Westminster</hi> shall approve thereof) <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> further information in the rest as may best conv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> satis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie those doubts which are not yet cleer unto Him, desiring them also to consider, that if His Majestie intended to wind himself out of these troubles by indirect means were it not easie for him now <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to con<g ref="char:EOLhyphen"/>sent to what hath or shall be proposed unto him, and afterwards chuse his time to break all, alledging, that forc'd concessions are not to be kept? surely he might, and not incurr a hard censure from some indifferent men. But Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imes in this kind are not the guides of His Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sties actions, for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e freely and cleerly avows; that he holds it unlawfull for any man, &amp; most base in a King to recede from his promises for having been obt<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed by force, or under restraint: wherefore His Majestie not onely rejecting those acts which he esteems unworthy of Him, but even passing by that which he might well insist upon, a point of honour in respect of his pre<g ref="char:EOLhyphen"/>sent condition, thus answers the first Proposition: That upon his Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>sties coming to <hi>London,</hi> he will heartily joyn in all that shall concern <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e honor of his two Kingdoms, or the Assembly of the States of <hi>Scotland,</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Commissioners or Deputies of either Kingdome, particularly in those things which are desired in that Proposition, upon confidence that all of them respectively with the same tendernesse will look upon those things which concern His Majesties honour.</p>
+            <p>In answer to all the Propositions concerning Religion, His Majestie proposeth that he will confirm the Presbyterial Government, the Assem<g ref="char:EOLhyphen"/>bly of Divines at <hi>Westminster,</hi> and the Directory, for three yeers, being the time set down by the two Houses, so that His Majesty and his houshold be not hindred from that form of Gods Service which they formerly have; And also that a free consultation and debate be had with the Di<g ref="char:EOLhyphen"/>vines at <hi>Westminster</hi> (twenty of His Majesties nomination being added unto them) whereby it may be determined by His Majestie and the two Houses, how the Church shall be governed after the said three yeers, or sooner, if differences <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay be agreed. Touching the Covenant, His Majesty is not yet therein satisfied, and desires to respite h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s particular Answer thereunto untill his coming to <hi>London,</hi> because it being a matter of con<g ref="char:EOLhyphen"/>science, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cannot give a res<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lution therein till he may be assisted with the advice of some of his own Chaplains (which hath hitherto been den<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed him, &amp; such other Divines as shal be most proper to inform him therein and then he will make cleerly appear both his zeal to the Protestant Pro<g ref="char:EOLhyphen"/>fession, and the Union of these two Kingdoms, which he conceives to be the main d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ift of this Covenant. To the 7<seg rend="sup">th</seg> &amp; 8<seg rend="sup">th</seg> Propositions. His Maje<g ref="char:EOLhyphen"/>sty will consent. To the 9<seg rend="sup">th</seg> His Majesty doubts not but to give good satis<g ref="char:EOLhyphen"/>faction, when he shall be particularly informed how the said penal<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="5" facs="tcp:117581:4"/> shall bele<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied &amp; disposed of. To the tenth His Majesties Answer is, That he hath been alwayes ready to prevent the practices of Papists, and there<g ref="char:EOLhyphen"/>fore <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> content to passe an Act of Parliament for that purpose; and also, that the Laws against them be duly executed. His Majesty will give his consent to the Act for the due observation of the Lords day, for the sup<g ref="char:EOLhyphen"/>pressing of Innovations, &amp; those concerning the preaching of Gods word, and touching Non-residence &amp; Pluralities: and His Majesty will yeeld to such Act or Acts as shall be requisite to rayse monies for the payment &amp; satisfying all publick Debts, expecting also that his will be therein inclu<g ref="char:EOLhyphen"/>ded. As to the Proposition touching the Militia, though his Majesty can<g ref="char:EOLhyphen"/>not consent unto it <hi>in terminis</hi> as it is proposed, because thereby he con<g ref="char:EOLhyphen"/>ceives he wholly parts with the power of the Sword entrusted to him by God and the Laws of the Land, for the protection and government of his people, thereby at once devesting himself, &amp; dis-inheriting his Posterity of that right &amp; Prerogative of the Crown which is absolutely necessary to the Kingly Office, and so weaken Monarchy in this Kingdom, that lit<g ref="char:EOLhyphen"/>tle more then the name and shadow of it will remain: yet if it be onely security for the preservation of the peace of this Kingdom, after the un<g ref="char:EOLhyphen"/>happy troubles, and the due performance of all the agreements which are now to be concluded, which is desired, (which His Majesty alwayes un<g ref="char:EOLhyphen"/>derstood to be the case, and hopes that herein he is not mistaken) His Ma<g ref="char:EOLhyphen"/>jestie wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l give abundant satisfaction; to which end he is willing by Act of Parliament, That the whole power of the Militia both by Sea &amp; Land for the space of ten yeers be in the hands of such persons at the two Hou<g ref="char:EOLhyphen"/>ses shall nominate, giving them power during the said terme to change the said persons, and substitute others in their places at pleasure; and af<g ref="char:EOLhyphen"/>terwards to return to the proper channell again, as it was in the times of Queen <hi>Elizabeth</hi> and King <hi>James</hi> of blessed memory. And now His Majestie conjures his two Houses of Parliament, as they are Englishmen, and lovers of Peace, by the dutie they owe to His Majesty their King, and by the bowels of compassion they have to their fellow Subjects, that they will accept of this His Majesties offer, whereby the joyfull news of Peace may be restored to this languishing Kingdom. His Majestie will grant the like to the Kingdom of <hi>Scotland,</hi> if it be desired; and agree to all things that are propounded touching the conserving of peace be<g ref="char:EOLhyphen"/>twixt the two Kingdoms.</p>
+            <p>Touching <hi>Ireland</hi> (other things being agreed) His Majestie will give sa<g ref="char:EOLhyphen"/>tisfaction therein. As to the mutual Declarations proposed to be esta<g ref="char:EOLhyphen"/>blished in both Kingdoms by Act of Parliament, and the Modifications, Qualifications and Branches which follow in the Propositions, His Ma<g ref="char:EOLhyphen"/>jestie onely professes that He doth not sufficiently understand, nor is able
+<pb n="6" facs="tcp:117581:5"/> to reconcile many things contained in them: but this <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>eth, that a general Act of Oblivion is the best bond of Peace and<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Intestine Troubles, the wisdom of this and other Kingdoms hath <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and happily in all ages granted General Pardons, whereby the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> discontentments of many Persons and Families otherwise exposed to<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ine, might not become sewel to new Disorders, or seeds to future Tro<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bles. His Majestie therefore desires that His two Houses of Parliament would seriously descend into these Considerations, and likewise ten<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> look upon his condition herein, and the perpetual dishonour that <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave to him, if He shal thus abandon so many persons of Condition and Fortune that have engaged themselves with and for Him, out of a sense of Duty; and propounds as a very acceptable testimony of their affection to him, That a general Act of Oblivion and free Pardon be forth with pass<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by Act of Parliament▪ Touching the new Great Seal, His Maj<gap reason="illegible" resp="#murp" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very willing to confirm both it and all the Acts done by vertue thereof until this present time, so that it be not thereby pressed to make void th<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Acts of His done by vertue of His Great Seal, which in Honour and Justice He is obliged to maintain; And that the future government there<g ref="char:EOLhyphen"/>of may be in His Majestie, according to the due course of Law. Con<g ref="char:EOLhyphen"/>cerning the Officers mentioned in the 19 Article, His Majestie when he shal come to <hi>Westminster</hi> wil gratifie his Parliament all that possible <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may, without destroying the alterations which are necessaray for the Crown. His Majestie will willingly consent to the Act for the confir<g ref="char:EOLhyphen"/>mation of the Priviledges and Customs of the City of <hi>London,</hi> and <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that is mentioned in the Propositions for their particular advantage.</p>
+            <p>And now that His Majestie hath thus far endeavoured to comply with the desires of His two Houses of Parliament; to the end that this Agree<g ref="char:EOLhyphen"/>ment may be firm and lasting, without the least face or question of re<g ref="char:EOLhyphen"/>straint to blemish the same, His Majestie earnestly desires presently to be admitted to His Parliament at <hi>Westminster,</hi> with that Honour which is due to their Soveraign, there solemnly to confirm the same, and legally to passe the Acts before mentioned, and to give and receive as well sa<g ref="char:EOLhyphen"/>tisfaction in all the remaining particulars, as likewise such other <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of mutual love, trust and confidence, as shall most concern the good of Him and his People; Upon which happie Agreement, His Majestie will dispatch His Directions to the Prince His Son to return immediately to Him, and will undertake for his ready obedience thereunto.</p>
+            <trailer>
+               <hi>For the Speaker of the Lords House</hi> (pro tempore) <hi>to be <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>redge<g ref="char:EOLhyphen"/>ted to the Lords and Commons in the Parliament of</hi> England at Westminster, <hi>and the Commissioners of the Parliament of</hi> Scotland.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
